@@ -1,0 +1,1 @@
+Advanced Machine Learning Pipeline: A comprehensive study on ensemble learning methods (Bagging, Boosting) and Multi-Layer Perceptrons (MLP). Features exploratory data analysis, hyperparameter tuning, and comparative performance visualization.
