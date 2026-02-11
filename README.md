@@ -29,3 +29,5 @@ The project is organized into logical modules to reflect a professional data sci
 1. Clone the repository: `git clone https://github.com/yunusemreayyildiz/ml-ensemble-neural-networks.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Explore the modules in the order listed above for a chronological understanding of the experiments.
+
+![Model Performance](./plots/Task_visualization.png)
