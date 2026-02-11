@@ -1,0 +1,7 @@
+numpy
+sklearn
+pandas
+matplotlib
+seaborn
+mpl_toolkits.mplot3d
+time 
